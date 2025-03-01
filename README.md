@@ -1,8 +1,8 @@
-# Weekly Challenge 07: Playing Registrar
+# Weekly Challenge 09: Pathfinding
 # CS/CE 412/471 Algorithms: Design and Analysis, Spring 2025
 ***
 
-The WC and other details are explained in the accompanying `wc07.tex` which is to be compiled in LaTeX.
+The WC and other details are explained in the accompanying `wc09.tex` which is to be compiled in LaTeX.
 
 # Deadline, grading, and discussion
 
